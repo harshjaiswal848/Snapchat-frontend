@@ -1,0 +1,82 @@
+header{
+    background-color: rgba(128, 128, 128, 0.11);
+    margin-top: 2px;
+    margin-bottom: 0px;
+    padding: 50px;
+}
+main {
+    background-color: white;
+    height: 350px;
+    width: 350px;
+    border: 1px solid white;
+    margin-top: 50px;
+    margin-left: 500px;
+    border-radius: 5px ;
+}
+.box img{
+    height: 60px;
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.login{
+    font-weight: 600;
+    line-height: 32px;
+    font: small-caption;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-left: 55px;
+    
+}
+.user{
+    font-size: 12px;
+    color: rgba(128, 128, 128, 0.856);
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: 400;
+}
+.username input{
+    height: 32px;
+    width:300px;
+    margin-left: 20px;
+    background-color: rgba(128, 128, 128, 0.082);
+    border: 2px solid white;
+    
+}
+.phone{
+    color: rgb(3, 175, 243);
+    font-weight: 600;
+    margin-left: 80px;
+    margin-top: 20px;
+    font: Lato, sans-serif;
+    
+}
+.button button{
+    border-radius: 20px;
+    background-color: rgb(10, 169, 231);
+    border: 1px rgb(28, 171, 228);
+    color: white;
+    height: 35px;
+    width: 70px;
+    margin-top: 30px;
+    margin-left: 140px;
+}
+.signup{
+    margin-top: 25px;
+    margin-left: 600px;
+    margin-bottom: 100px;
+    font: small-caption;
+    font-size: 15px;
+}
+footer nav div ul{
+    display: inline;
+    display: inline-block;
+    margin-left: 70px;
+    /* margin-top: 1px;
+     */
+    margin-right: 20px;
+}
+footer nav div ul li{
+    color: grey;
+    list-style: none;
+}
